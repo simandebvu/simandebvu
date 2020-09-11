@@ -1,6 +1,6 @@
 ![myProfileViews](https://komarev.com/ghpvc/?username=simandebvu&color=red)
 
-Hey there! 😄 My name is Shingirayi (Shingi) and I am a Full Stack Developer and I have been in the IT field for the past 5+ years. I have had experience in a variety of technologies and am currently reading and starting my research in personalised medicine and its potential applications. Feel free to visit my [my site :).](https://simandebvu.github.io/) Lets make our planet better :).
+Hey there! 😄 My name is Shingirayi (Shingi) and I am a Full Stack Developer and I have been in the IT field for the past 5+ years. I have had experience in a variety of technologies and am currently reading and starting my research in personalised medicine and its potential applications. Feel free to visit [my site :).](https://simandebvu.github.io/) Lets make our planet better :).
 
 - 🔭 I’m currently studying with Microverse
 - 🌱 I’m currently learning so so much!
