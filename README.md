@@ -48,4 +48,4 @@ I am also a fan of open source - I love that you get to learn so much through co
 
 And yes, I love quotes !
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
